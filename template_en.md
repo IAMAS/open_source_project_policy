@@ -52,7 +52,7 @@ In the event of discrepancy between the provisions of this Policy and the provis
 
 6.1. [YOUR_NAME] shall NOT explicitly or implicitly guarantee that this website itself, the source codes and data provided on this website, and the licenses quoted in the Policy are free from de facto or legal flaws (including flaws relating to safety, reliability, accuracy, completion, validity, compatibility with certain purposes, security, as well as errors, bugs, and infringement of rights). [YOUR_NAME] shall have no obligation to provide services related to [PROJECT_NAME] free of such defects to Users.
 
-6.2. [YOUR_NAME] shall NOT in any way be responsible for any disputes or damages whatsoever arising in relation to the usage of the source codes and/or data provided by [YOUR_NAME] (including the product liability using the source codes and/or data) or the interpretation and application of the Policy among Users or between Users and third parties.
+6.2. [YOUR_NAME] shall NOT in any way be responsible for any disputes or damages whatsoever arising in relation to the usage of the source codes and/or data provided by [YOUR_NAME] \(including the product liability using the source codes and/or data) or the interpretation and application of the Policy among Users or between Users and third parties.
 
 6.3. [YOUR_NAME] shall NOT provide any guarantee that the source codes and data will constantly be available on this website at any time. [YOUR_NAME] shall not in any way be responsible for any damages caused to Users or third parties that arise from a situation where [YOUR_NAME] cannot provide the source codes and data irrespectively of the cause of such situation such as maintenance of this website.
 
